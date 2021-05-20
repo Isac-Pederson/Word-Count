@@ -1,0 +1,16 @@
+body {
+  background-color: #74d1fc;
+}
+
+#IfeelLikeSans {
+  font-size: 500px;
+}
+
+textarea {
+  width: 40%;
+  height: 500px;
+}
+
+h3 {
+  font-family: Raleway, sans-serif;
+}
